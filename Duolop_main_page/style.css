@@ -1,0 +1,146 @@
+
+#root{
+    margin-top: 20px;
+    margin-left: 80px;
+    margin-right: 80px;
+    font-family: 'Poppins', sans-serif;
+}
+
+#container-start{
+   display : flex;
+   flex-wrap: wrap;
+} 
+
+#starting-image{
+    background: radial-gradient(ellipse, rgb(253, 214, 253) 3%, white 80%);
+}
+
+#starting-text{
+    align-items: center;
+    width: 60%;
+}
+
+
+.content-heading{
+    font-size: 50px;
+}
+
+#relationship{
+    background: linear-gradient(to right, #E44AA1 ,#3B7BD3);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+#container-no-limits{
+    display : flex;
+    flex-wrap: wrap;
+    margin-top: 60px;
+    justify-content: center;
+ }
+
+ #no-limits{
+    width: 46%;
+ }
+#container-private-chat{
+    display : flex;
+    flex-wrap: wrap;
+    margin-top: 90px;
+    justify-content: center;
+   
+}
+
+#private-chat-text{
+    width : 40%;
+    background: radial-gradient(circle, rgb(232, 252, 252) 4%, white 80%);
+}
+
+#blue-circle{
+    margin-left: 90%;
+    width: 100px;
+}
+#container-shared-gallery{
+    display : flex;
+    flex-wrap: wrap;
+    margin-top: 90px;
+    justify-content: center;
+   
+}
+
+#shared-gallery-text{
+    width : 40%;
+}
+#container-safe-secure{
+    display : flex;
+    flex-wrap: wrap;
+    margin-top: 90px;
+    justify-content: center;
+   
+}
+#safe-secure-image{
+    padding-right: 5%;
+}
+#safe-secure-text{
+    width : 40%;
+    padding-left: 8%;
+    
+}
+
+#single-blue-circle{
+    width: 100px;
+}
+
+#single-pink-circle{
+    margin-left: 90%;
+    width: 130px;
+}
+
+#download-app{
+    align-self: right;
+}
+
+#container-download-app{
+    display : flex;
+    flex-wrap: wrap;
+    margin-top: 90px;
+    align-items: center;
+    flex-direction: column;
+}
+
+#download-app-image{
+    padding-top: 3%;
+}
+
+#container-big-phone{
+    background: linear-gradient(to top, rgb(255, 241, 255) 40%, white 50%);
+    height : 557px;
+    margin-top: 90px;
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+#container-queries{
+    display : flex;
+    flex-wrap: wrap;
+    margin-top: 80px;
+    margin-bottom: 80px;
+    align-items: center;
+    flex-direction: column;
+    font-family: 'Poppins', sans-serif;
+}
+#queries-text{
+    font-size: 25px;
+    padding-bottom: 1%;
+}
+
+
+#footer{
+    display: flex;
+    flex-wrap: wrap;
+    font-family: 'Poppins', sans-serif;
+    justify-content: center;
+    margin-bottom: 3%;
+}
+
+#privacy-terms-blogs{
+    padding-right: 5%;
+    padding-left: 5%;
+}
